@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="text" id="tache" placeholder="Entrer une tache">
+    <button id="btn">Ajouter</button>
+    <ul id="listeTaches"></ul>
+    <script>
+        const tache = document.getElementById("tache");
+        const btn = document.getElementById("btn");
+        const ul = document.getElementById("listeTaches");
+        btn.addEventListener("click", function () {
+            let valeur = tache.value;
+            const li = document.createElement("li");
+            const span = document.createElement("span");
+            span.textContent = valeur;
+            li.append(span);
+            const btnDelete = document.createElement("button");
+            btnDelete.textContent = "X";
+            li.append(btnDelete);
+            btnDelete.addEventListener("click", function () {
+                li.remove();
+            });
+            ul.append(li);
+            tache.value = "";
+        });
+    </script>
+</body>
+
+</html>
