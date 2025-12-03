@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul {
+            list-style-type: none;
+            padding: 0px;
+            width: 150px;
+            border-radius: 5px;
+            overflow: hidden;
+            margin: auto;
+            border: 1 px solid #eee;
+        }
+
+        ul li {
+            padding: 6px;
+        }
+
+        ul li:nth-child(even) {
+            background-color: lightblue;
+        }
+
+        ul li:nth-child(odd) {
+            background-color: #eee;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="product-list"></div>
+
+    <script>
+        const products = ["Laptop", "Smartphone", "Headphones", "Tablet", "Camera"];
+        const ul = document.createElement("ul");
+        for (const p of products) {
+            const li = document.createElement("li");
+            li.textContent = p;
+            ul.appendChild(li);
+        }
+        const div = document.querySelector("#product-list");
+        div.appendChild(ul);
+
+
+    </script>
+</body>
+
+</html>

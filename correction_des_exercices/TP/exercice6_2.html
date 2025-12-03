@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        span.initial {
+            color: blue;
+            font-weight: bold;
+        }
+
+        span.name {
+            padding: 5px 10px;
+            background-color: aliceblue;
+            border-radius: 10px;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="list"></div>
+
+    <script>
+        const initials = ["A", "B", "C"];
+        const names = ["Alice", "Ali", "Amine", "Benoit", "Bilal", "Carla", "Charles"];
+        const div = document.getElementById("list");
+        for (const i of initials) {
+            const p = document.createElement("p");
+            const spanInitial = document.createElement("span");
+            spanInitial.textContent = i + " : ";
+            spanInitial.className = "initial";
+            p.append(spanInitial);
+            for (const name of names) {
+                if (name[0] === i) {
+                    const span = document.createElement("span");
+                    span.textContent = name;
+                    span.className = "name"
+                    p.append(span);
+                }
+            }
+            div.append(p);
+        }
+    </script>
+</body>
+
+</html>
