@@ -4,7 +4,8 @@
   * [Chapitre 1 et 2 : HTML, CSS, introduction JS](Documents/Développement%20Web%20178.pdf)
 
 * Énoncé du Projet : Application de  Gestion Backoffice:
-  * [Lien](https://docs.google.com/document/d/e/2PACX-1vSsxYU_DyAU0_NGHL2Mavqe6bkeulpCGJgBWQLdtPGsV0iK_DV8dwU0S6NQcVAOdpgBnyMT84RyQ1iu/pub)
+  * [Lien cahier de charge](https://docs.google.com/document/d/e/2PACX-1vSsxYU_DyAU0_NGHL2Mavqe6bkeulpCGJgBWQLdtPGsV0iK_DV8dwU0S6NQcVAOdpgBnyMT84RyQ1iu/pub)
+  * [Les étapes à suivre]()
   * [Template du fichier readme](./projet/README_TEMPLATE.md)
 
 * Formations:
