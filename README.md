@@ -4,6 +4,7 @@
   * [Chapitre 1 et 2 : HTML, CSS, introduction JS](Documents/Développement%20Web%20178.pdf)
 
 * Formations:
+  * [Resume du cours javascript](correction_des_exercices/Cours/Resume_JavaScript.md)
   * [Introduction à Git et GitHub (Coursera)](https://www.coursera.org/programs/professeurs-casablanca-2023-qrepg/learn/introduction-git-github?authProvider=emsi&source=search)
   * [Tutoriel BOOTSTRAP 5 (Youtube)](https://www.youtube.com/watch?v=T-6dbrYUpxg&list=PLBOL5k415M_WJeZyalQeWrWtH3OHDHxCu&index=1)
 * Tutoriels et Documentation:
