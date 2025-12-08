@@ -1,7 +1,11 @@
 # Module de développement web
 
 * Support du cours:
-  * [Chapitre 1 et 2 : HTML, CSS, introduction JS](Documents/Développement%20Web%20163.pdf)
+  * [Chapitre 1 et 2 : HTML, CSS, introduction JS](Documents/Développement%20Web%20178.pdf)
+
+* Énoncé du Projet : Application de  Gestion Backoffice:
+  * [Lien](https://docs.google.com/document/d/e/2PACX-1vSsxYU_DyAU0_NGHL2Mavqe6bkeulpCGJgBWQLdtPGsV0iK_DV8dwU0S6NQcVAOdpgBnyMT84RyQ1iu/pub)
+  * [Template du fichier readme](./projet/README_TEMPLATE.md)
 
 * Formations:
   * [Introduction à Git et GitHub (Coursera)](https://www.coursera.org/programs/professeurs-casablanca-2023-qrepg/learn/introduction-git-github?authProvider=emsi&source=search)
