@@ -5,7 +5,7 @@
 
 * Énoncé du Projet : Application de  Gestion Backoffice:
   * [Lien cahier de charge](https://docs.google.com/document/d/e/2PACX-1vSsxYU_DyAU0_NGHL2Mavqe6bkeulpCGJgBWQLdtPGsV0iK_DV8dwU0S6NQcVAOdpgBnyMT84RyQ1iu/pub)
-  * [Les étapes à suivre]()
+  * [Les étapes à suivre](./projet/guide_github_git_fr.md)
   * [Template du fichier readme](./projet/README_TEMPLATE.md)
 
 * Formations:
