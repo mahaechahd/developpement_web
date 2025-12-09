@@ -34,7 +34,7 @@
 <!-- Cochez les cases [x] pour les fonctionnalités terminées. Laissez [ ] pour ce qui n'est pas fait. -->
 
 ### Fonctionnalités Principales
-- [ ] **CRUD 1 :** [Nom Entité, ex: Utilisateurs] (Create, Read, Update, Delete)
+- [X] **CRUD 1 :** [Nom Entité, ex: Utilisateurs] (Create, Read, Update, Delete)
 - [ ] **CRUD 2 :** [Nom Entité]
 - [ ] **CRUD 3 :** [Nom Entité]
 - [ ] **CRUD 4 :** [Nom Entité]
