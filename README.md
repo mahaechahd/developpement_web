@@ -1,4 +1,5 @@
 # Module de développement web
+TP 7 https://docs.google.com/document/d/1vWpd0uqwRfu4tqiZsAS9wkJvv-uk-gVG7o7AY0AjAv4/edit?usp=sharing 
 
 * Support du cours:
   * [Chapitre 1 et 2 : HTML, CSS, introduction JS](Documents/Développement%20Web%20178.pdf)
