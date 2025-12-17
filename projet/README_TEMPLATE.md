@@ -1,6 +1,6 @@
-# Nom du Projet (ex: MyManager - Gestion Hospitalière)
+# Nom du Projet (CL LAW FIRM)
 
-<!-- Mettez un court slogan ou une description en une phrase ici -->
+<!-- Cabinet de consultation juridique -->
 > Application Backoffice de gestion réalisée dans le cadre du module Dévelopement web.
 
 ## 🔗 Liens Importants
